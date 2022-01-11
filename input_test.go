@@ -7,8 +7,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/AlecAivazis/survey/v2/core"
-	"github.com/AlecAivazis/survey/v2/terminal"
+	"github.com/t0st/survey/v2/core"
+	"github.com/t0st/survey/v2/terminal"
 	expect "github.com/Netflix/go-expect"
 	"github.com/stretchr/testify/assert"
 )
